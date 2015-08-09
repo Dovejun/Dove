@@ -73,3 +73,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+css/bootstrap/js/bootstrap.min.js
+*.js
+css/bootstrap/fonts/glyphicons-halflings-regular.svg
+*.svg
